@@ -6,14 +6,14 @@
 Projet centré sur l'analyse des données clients et commerciales 
 d'un e-commerce pour identifier les leviers de croissance.
 
+**Entreprise fictive :** Le Grand Marché
+
 **Date :** Octobre 2024
 
 ---
 
 ## Objectif
-
-Identifier les segments clients les plus rentables pour orienter 
-la stratégie commerciale du Grand Marché.
+Identifier les segments clients les plus rentables pour orienter la stratégie commerciale du Grand Marché
 
 ---
 
