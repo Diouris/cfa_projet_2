@@ -30,18 +30,21 @@ Identifier les segments clients les plus rentables pour orienter la stratégie c
 - **Hard skills :** Excel
   - Analyser l'évolution du chiffre d'affaires par segment
   - Identifier des corrélations entre variables comportementales
-  - Calculer et interpréter un taux de conversion
+  - Tableau croisé dynamique
 
-- **Soft skills :** Posture Data Analyst, Storytelling, 
-  Aide à la décision business, Posture consultant, 
-  Compréhension du besoin utilisateur, Transformation 
-  d'un contexte flou en objectif analytique
+- **Soft skills :**
+  - Posture Data Analyst
+  - Aide à la décision business
+  - Posture consultant
+  - Compréhension du besoin utilisateur
+  - Transformation d'un contexte flou en objectif analytique
 
 ---
 
 ## Livrables produits
 
 - [x] Rapport mensuel PowerPoint
+- [x] Excel
 - [x] Soutenance
 
 ---
